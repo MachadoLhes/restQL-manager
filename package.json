@@ -1,6 +1,7 @@
 {
-  "name": "restql-manager",
+  "name": "@b2wdigital/restql-manager",
   "version": "0.1.1",
+  "description": "Manage restQL queries - http://restql.b2w.io/",
   "dependencies": {
     "@types/react-sidebar": "^2.2.2",
     "body-parser": "^1.18.2",
@@ -61,5 +62,12 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/B2W-BIT/restQL-manager"
-  }
+  },
+  "keywords": ["restQL"],
+  "author": "restQL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/B2W-BIT/restQL-manager/issues"
+  },
+  "homepage": "https://github.com/B2W-BIT/restQL-manager#readme"
 }
